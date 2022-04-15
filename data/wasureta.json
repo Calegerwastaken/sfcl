@@ -36,6 +36,24 @@
             "link": "https://www.youtube.com/watch?v=hCrTG0fdH_M",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "ZawyGD",
+            "link": "https://www.youtube.com/watch?v=2SjoDAw1lwk",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Armani",
+            "link": "https://youtu.be/spDHcn9JT5Q",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "attrixia",
+            "link": "https://www.youtube.com/watch?v=FCNOlROKpO0",
+            "percent": 100,
+            "hz": 150
         }
     ]
 }
