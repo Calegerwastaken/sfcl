@@ -285,7 +285,7 @@
             "hz": 165
         },
         {
-            "user": "Dashermachine",
+            "user": "Willow",
             "link": "https://youtu.be/JwViT-7i-v4",
             "percent": 100,
             "hz": 360
@@ -503,6 +503,12 @@
         {
             "user": "HeartLess",
             "link": "https://youtu.be/E3Uwx9fsUPg",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "tunbag_",
+            "link": "https://youtu.be/EzvcMOxdhxg",
             "percent": 100,
             "hz": 360
         }
