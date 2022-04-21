@@ -85,6 +85,24 @@
             "link": "https://youtu.be/-kyivlFb10o",
             "percent": 75,
             "hz": 360
+        },
+        {
+            "user": "Jack0kcaj",
+            "link": "https://www.youtube.com/watch?v=mshH4mHxl_0",
+            "percent": 100,
+            "hz": 75
+        },
+        {
+            "user": "Freikz",
+            "link": "https://youtu.be/F5XT_2cesws",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "MauklyH",
+            "link": "https://www.youtube.com/watch?v=JhQcLlTTXac",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }

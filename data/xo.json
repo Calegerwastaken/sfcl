@@ -488,6 +488,18 @@
             "link": "https://www.youtube.com/watch?v=pNrstmTRlrI",
             "percent": 100,
             "hz": 280
+        },
+        {
+            "user": "homegrowntag",
+            "link": "https://youtu.be/k0knRU1sRQM",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "Renger Alpha",
+            "link": "https://www.youtube.com/watch?v=TQpZJaxggnE&t=37s",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
