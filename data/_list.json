@@ -10,7 +10,6 @@
     "visible_ray",
     "omega_interface",
     "marathon",
-    "gronos",
     "trueffet",
     "azure_abyss",
     "plasma_pulse_finale",
@@ -34,7 +33,6 @@
     "rust",
     "the_rupture",
     "the_yandere",
-    "triple_six",
     "keres",
     "zodiac",
     "chroma_finale",
@@ -59,7 +57,6 @@
     "abandoned",
     "balengu_vortex",
     "chromatic_haze",
-    "glacial_core",
     "sinister_incision",
     "distraught",
     "acheron",
@@ -83,6 +80,7 @@
     "darkened",
     "kuzureta",
     "black_blizzard",
+    "glacial_core",
     "ithacropolis",
     "biohazard",
     "crimson_planet",
@@ -157,5 +155,6 @@
     "phobos",
     "idols",
     "shittylistwarnedme",
+    "triple_six",
     "calculator_core"
 ]
