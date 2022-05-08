@@ -143,12 +143,6 @@
             "hz": 240
         },
         {
-            "user": "pixer",
-            "link": "https://www.youtube.com/watch?v=byyNOvV4Mm8&ab_channel=pixer",
-            "percent": 100,
-            "hz": 120
-        },
-        {
             "user": "zTrailer2016",
             "link": "https://www.youtube.com/watch?v=n3CkdAJjAuo",
             "percent": 65,
@@ -185,10 +179,11 @@
             "hz": 60
         },
         {
-            "user": "Oblivion7",
-            "link": "https://youtu.be/1-Z4qVwfcas",
-            "percent": 100,
-            "hz": 120
+            "user": "DaVinciGD",
+            "link": "https://youtu.be/GGRUgl3dfwo",
+            "percent": 87,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
