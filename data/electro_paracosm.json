@@ -6,5 +6,12 @@
     "verifier": "PilBoom",
     "verification": "https://youtu.be/jV_F5NdO_nA",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Fh1r",
+            "link": "https://www.youtube.com/watch?v=LUBhAG4DBzE",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
