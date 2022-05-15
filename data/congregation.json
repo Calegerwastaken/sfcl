@@ -214,6 +214,18 @@
             "link": "https://www.twitch.tv/videos/1480310491",
             "percent": 100,
             "hz": 288
+        },
+        {
+            "user": "Gabo5400",
+            "link": "https://youtu.be/gy-vtpZBbls",
+            "percent": 79,
+            "hz": 288
+        },
+        {
+            "user": "ITSL3OMC",
+            "link": "https://youtu.be/pro-o_4BYsg",
+            "percent": 91,
+            "hz": 60
         }
     ]
 }
