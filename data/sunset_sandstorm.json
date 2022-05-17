@@ -821,6 +821,18 @@
             "link": "https://youtu.be/3hK1Ggpva2U",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "Chronic",
+            "link": "https://www.youtube.com/watch?v=dZ6dne04veM",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "WellNot",
+            "link": "https://www.youtube.com/watch?v=_TTMeJMH6ds",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
