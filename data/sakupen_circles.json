@@ -507,6 +507,24 @@
             "link": "https://www.youtube.com/watch?v=s2tdPsfDodk&ab_channel=HeitorCar-GeometryDash",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "homegrowntag",
+            "link": "https://www.youtube.com/watch?v=SH8wje-fMig",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "kifir",
+            "link": "https://youtu.be/4t6FuvVHxUI",
+            "percent": 100,
+            "hz": 300
+        },
+        {
+            "user": "Holojen",
+            "link": "https://youtu.be/AuIUugLL1gA",
+            "percent": 100,
+            "hz": 288
         }
     ]
 }
