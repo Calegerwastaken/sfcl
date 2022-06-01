@@ -1618,6 +1618,18 @@
             "link": "https://www.youtube.com/watch?v=8NThxZuCmi8",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "rikkocreativity",
+            "link": "https://www.youtube.com/watch?v=38ce0jbztpk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Ka4epra",
+            "link": "https://www.youtube.com/watch?v=m-erTP7K8rU",
+            "percent": 100,
+            "hz": 300
         }
     ]
 }
