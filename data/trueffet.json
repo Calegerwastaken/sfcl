@@ -403,7 +403,19 @@
             "user": "KorushiGD",
             "link": "https://www.youtube.com/watch?v=sB_0TQHTjQY",
             "percent": 100,
-            "hz": 288,
+            "hz": 288
+        },
+        {
+            "user": "biskit",
+            "link": "https://youtu.be/Aqiqplm1Sy8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Shel",
+            "link": "https://youtu.be/qwMoJSTCnrc",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }

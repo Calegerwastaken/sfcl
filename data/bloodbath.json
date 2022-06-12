@@ -151,6 +151,24 @@
             "link": "https://www.youtube.com/watch?v=jjSFWDIRBG0",
             "percent": 100,
             "hz": 300
+        },
+        {
+            "user": "BlackChaleur",
+            "link": "https://youtu.be/qouJd4VUWC4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "biskit",
+            "link": "https://youtu.be/wgsInLd5EP4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Tango",
+            "link": "https://www.youtube.com/watch?v=Qg1ebrsh5Uo",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
