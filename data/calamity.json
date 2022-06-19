@@ -168,6 +168,18 @@
             "link": "https://youtu.be/3Sh0bcIs_Co",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Vaoen",
+            "link": "https://www.twitch.tv/videos/1494860198",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Zildex",
+            "link": "https://youtu.be/IOp1Teh1pNg",
+            "percent": 100,
+            "hz": 330
         }
     ]
 }
