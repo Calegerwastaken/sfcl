@@ -91,6 +91,7 @@ Can i submit Multiple levels on 1 video?
 - KylashTheKiller
 - Samuuu
 - TravelChimp
+- Acidius
 
 ---
 
@@ -98,6 +99,7 @@ Can i submit Multiple levels on 1 video?
 
 - LBoke
 - frigusterio
+- Prometheus
 - Nolife
 
 ---
