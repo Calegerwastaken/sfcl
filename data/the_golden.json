@@ -1233,12 +1233,6 @@
             "hz": 240
         },
         {
-            "user": "Aele_24",
-            "link": "https://www.youtube.com/watch?v=W5Dc95kpB9c",
-            "percent": 100,
-            "hz": 288
-        },
-        {
             "user": "Dandy Chiggins",
             "link": "https://www.youtube.com/watch?v=EucUD-v7_dQ",
             "percent": 100,
@@ -1706,6 +1700,12 @@
         {
             "user": "woi",
             "link": "https://youtu.be/PAKBYPPEKms",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "wienerrr",
+            "link": "https://www.youtube.com/watch?v=U8NFiz4PUrU",
             "percent": 100,
             "hz": 360
         }
