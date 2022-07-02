@@ -6,5 +6,24 @@
     "verifier": "iRaily",
     "verification": "https://www.youtube.com/watch?v=ghMSAgmih0U",
     "percentToQualify": 53,
-    "records": []
+      "records": [
+        {
+            "user": "BrightBird",
+            "link": "https://youtu.be/Ler6bBSk-SQ",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Kacro",
+            "link": "https://youtu.be/36HYC46hoLA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Alaniz004",
+            "link": "https://youtu.be/MF_Vbgv5UUI",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
