@@ -53,8 +53,14 @@
             "user": "TypeGMD",
             "link": "https://youtu.be/ubNaqZad03k",
             "percent": 94,
-            "hz": 120
+            "hz": 120,
             "mobile": true
+        }
+        {
+            "user": "Kenos Song",
+            "link": "https://youtu.be/UBGcrpl688g",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
