@@ -3,11 +3,18 @@
     "name": "Shitty Erebus",
     "author": "AzielGD",
     "creators": [
-    "Atatokai",
+    "Atotakai",
     "Fice"
     ],
     "verifier": "AzielGD",
     "verification": "https://youtu.be/MbUUiMJUvbA",
     "percentToQualify": 62,
-    "records": []
+    "records": [
+        {
+            "user": "ItsMeAlex25",
+            "link": "https://www.youtube.com/watch?v=yyJoTYeQdQ0",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
