@@ -1,5 +1,6 @@
 [
     "verdant_landscape",
+    "sonic_wave_infinity",
     "frozen_cave",
     "sigma",
     "calamity",
@@ -30,7 +31,6 @@
     "lucid_chaos",
     "vengeance",
     "sary_never_clear",
-    "la_magicienne_rose",
     "sakupen_circles",
     "deimos_(tygrysek_version)",
     "macabre",
@@ -49,6 +49,7 @@
     "sunset_sandstorm",
     "atomic_cannon",
     "erebus",
+    "la_magicienne_rose",
     "koreastep",
     "ouroboros",
     "love",
@@ -68,6 +69,7 @@
     "abandoned",
     "chromatic_haze",
     "glacial_core",
+    "factory_realm_x",
     "sinister_incision",
     "monstrosity",
     "unnerfed_allegiance",
@@ -88,6 +90,7 @@
     "shock_breaker",
     "fragmented",
     "artificial_ideology",
+    "kumbiareta",
     "gravity",
     "explicit",
     "paroxysm",
@@ -155,8 +158,5 @@
     "stalemate_redux",
     "the_hell_zone",
     "arctic_lights",
-    "retitled",
-    "quantum_processing",
-    "gang_plank_hell",
-    "cadrega_city"
+    "retitled"
 ]
