@@ -1071,12 +1071,6 @@
             "hz": 240
         },
         {
-            "user": "cosmy",
-            "link": "https://www.youtube.com/watch?v=RmJdWe0ty9M",
-            "percent": 67,
-            "hz": 144
-        },
-        {
             "user": "DogeyBoi",
             "link": "https://youtu.be/mnilHfvejFQ",
             "percent": 100,
@@ -1785,6 +1779,12 @@
         {
             "user": "Yoshi",
             "link": "https://youtu.be/T81tm_fISkA",
+            "percent": 100,
+            "hz": 144
+        },
+        {
+            "user": "cosmy",
+            "link": "https://www.youtube.com/watch?v=KeW4Fglf3R8",
             "percent": 100,
             "hz": 144
         }
