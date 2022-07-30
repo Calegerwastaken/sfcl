@@ -6,5 +6,48 @@
     "verifier": "Dxst",
     "verification": "https://youtu.be/uaNgnH06Taw",
     "percentToQualify": 62,
-    "records": []
+    "records": [
+        {
+            "user": "ObvSilver",
+            "link": "https://youtu.be/5DjupAm0vsY",
+            "percent": 100,
+            "hz": 165
+        },
+        {
+            "user": "Armani",
+            "link": "https://youtu.be/edEM5u-ir5A",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Lyrian",
+            "link": "https://www.youtube.com/watch?v=1AQSUYIOWoQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Neility",
+            "link": "https://youtu.be/-8yRbu7r8M8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "bnuuy",
+            "link": "https://www.youtube.com/watch?v=HCO93LXci8w",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Samuuu18",
+            "link": "https://youtu.be/WV0CKf6BgQk",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Unrealluw",
+            "link": "https://www.youtube.com/watch?v=TbCFRkoYE6k&ab_channel=Unrealluw",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
 }
