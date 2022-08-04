@@ -1031,6 +1031,24 @@
             "link": "https://youtu.be/u1aTQ7PtEjg",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "hubertos",
+            "link": "https://youtu.be/7yG_cbl1P1Q",
+            "percent": 100,
+            "hz": 288
+        },
+        {
+            "user": "Nano FV",
+            "link": "https://youtu.be/_hJBCal6tSY",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Kenauro",
+            "link": "https://www.youtube.com/watch?v=TlIGNI6lrgA",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
