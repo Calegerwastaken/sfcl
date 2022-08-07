@@ -6,7 +6,6 @@
     "verifier": "BlueTomcat",
     "verification": "https://www.youtube.com/watch?v=9Wu9JG3JpZw",
     "percentToQualify": 100,
-    "password": "Free to Copy",
     "records": [
         {
             "user": "SupaX_",
@@ -158,6 +157,12 @@
             "link": "https://www.youtube.com/watch?v=Gj5I6ICb3ko",
             "percent": 100,
             "hz": 288
+        },
+        {
+            "user": "SuperRTLGamingHD",
+            "link": "https://youtu.be/haPsTZdVjMs",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
