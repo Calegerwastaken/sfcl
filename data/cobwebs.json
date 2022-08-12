@@ -212,12 +212,6 @@
             "hz": 240
         },
         {
-            "user": "Snowball",
-            "link": "https://www.youtube.com/watch?v=TZrZ6bYkhlU",
-            "percent": 91,
-            "hz": 360
-        },
-        {
             "user": "Quick",
             "link": "https://www.youtube.com/watch?v=U1iNI4krPgA",
             "percent": 100,
@@ -234,6 +228,18 @@
             "link": "https://youtu.be/B3p6LU02ihQ",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Snowball",
+            "link": "https://www.youtube.com/watch?v=fB7ha2RTmR4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Nobelix",
+            "link": "https://youtu.be/d5eVLs_5RWs",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
