@@ -162,8 +162,8 @@
         },
         {
             "user": "aheadhulkdrive",
-            "link": "https://youtu.be/MRgP4jkNwBU",
-            "percent": 65,
+            "link": "https://youtu.be/OUXXPX9p8dU",
+            "percent": 100,
             "hz": 360
         },
         {
@@ -401,6 +401,13 @@
             "link": "https://www.youtube.com/watch?v=8SVYuSV3uh0",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "Fiveshadow",
+            "link": "https://youtu.be/rSwSe7xlMDQ",
+            "percent": 100,
+            "hz": 60,
+            "mobile": true
         }
     ]
 }
