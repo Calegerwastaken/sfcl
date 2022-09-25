@@ -180,12 +180,6 @@
             "hz": 360
         },
         {
-            "user": "WaffleSniffer",
-            "link": "https://www.youtube.com/watch?v=jSQoZL9Cm_8",
-            "percent": 100,
-            "hz": 60
-        },
-        {
             "user": "youi",
             "link": "https://www.youtube.com/watch?v=RMCsyiXs8J0&ab_channel=six6six",
             "percent": 100,
@@ -200,6 +194,12 @@
         {
             "user": "aheadhulkdrive",
             "link": "https://youtu.be/KDXA2dcoIqE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "JaByUs",
+            "link": "https://youtu.be/aPhzi4Bg6ps",
             "percent": 100,
             "hz": 360
         }

@@ -286,12 +286,6 @@
             "hz": 240
         },
         {
-            "user": "WaffleSniffer",
-            "link": "https://www.youtube.com/watch?v=ahvtVPOC9a0",
-            "percent": 100,
-            "hz": 60
-        },
-        {
             "user": "GD Fayo",
             "link": "https://www.youtube.com/watch?v=SFAShk7YW9Y",
             "percent": 100,
@@ -308,6 +302,12 @@
             "link": "https://www.youtube.com/watch?v=tMuz6foRV14",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "ThatGuyFroGG",
+            "link": "https://www.youtube.com/watch?v=ouAMoTmB7Wk",
+            "percent": 100,
+            "hz": 360
         }
     ]
 }
