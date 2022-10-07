@@ -102,7 +102,7 @@
             "hz": 360
         },
         {
-            "user": "ItzQuster",
+            "user": "IKuster",
             "link": "https://youtu.be/ZldOA51Wbl0",
             "percent": 100,
             "hz": 120
@@ -467,6 +467,12 @@
             "link": "https://www.youtube.com/watch?v=uHzoAv6hRkU&t=1s",
             "percent": 100,
             "hz": 360
+        },
+        {
+            "user": "SemiRed",
+            "link": "https://youtu.be/3ygwmU19c0c",
+            "percent": 66,
+            "hz": 144
         }
     ]
 }
