@@ -1,67 +1,47 @@
 [
     {
         "role": "owner",
-        "name": "Bluestone",
-        "link": "https://www.youtube.com/channel/UCfCcFAvTLH-vqmFe93z9D3w"
+        "name": "SkeletalVirus",
+        "link": "https://www.youtube.com/channel/UCVifLeNLVQe3mYwRW1IiNnA"
     },
     {
         "role": "owner",
-        "name": "Davine_007",
-        "link": "https://www.youtube.com/channel/UCdFZfQWXHkJkofMyorv0ccw"
+        "name": "TheRealWacazy",
+        "link": "https://www.youtube.com/channel/UCsZRzwDnWXSwEHw0IFCCJ4Q"
     },
     {
         "role": "owner",
-        "name": "JustCrust",
-        "link": "https://www.youtube.com/channel/UC_CKBjO9nk3yc46EsbO9bmw/videos"
-    },
-    {
-        "role": "owner",
-        "name": "Microwaveee",
-        "link": "https://www.youtube.com/channel/UC4BZvLEre3SrihXXL-eItWg"
+        "name": "Crypto",
+        "link": "https://www.youtube.com/channel/UCU7sG-uL-r3Fg68K19-IGEA"
     },
     {
         "role": "admin",
-        "name": "TravelChimp",
-        "link": "https://youtube.com/channel/UC_iEmvCmkuJWqoRbGM49GOA"
+        "name": "W0of",
+        "link": "https://www.youtube.com/channel/UCXjk41FXtxSmFBERzzDqspw"
+    },
+        {
+        "role": "admin",
+        "name": "Enenzo",
+        "link": "https://www.youtube.com/channel/UCQWVwSP9O9W9krk3RPoxEmg"
+    },
+            {
+        "role": "admin",
+        "name": "BriXX",
+        "link": "https://www.youtube.com/channel/UCOtzio8UKI7iYLSyxdoQxHg"
     },
     {
         "role": "helper",
-        "name": "KylashTheKiller",
-        "link": "https://www.youtube.com/c/KylashTheKiller"
+        "name": "Florian",
+        "link": "https://www.youtube.com/channel/UCyxexTnvTeDsQekNVPHtVBg"
     },
     {
         "role": "helper",
-        "name": "Ryoui",
-        "link": "https://www.youtube.com/channel/UCbon_JIcGDqic5lJj3-8L-w"
+        "name": "Siren",
+        "link": "https://www.youtube.com/channel/UCXEro4z2hGcgh8V6g4gXYWw"
     },
     {
         "role": "helper",
-        "name": "Achlys",
-        "link": "https://www.youtube.com/channel/UCd7V5FKKTC01gAmaxqaK1Ug"
-    },
-    {
-        "role": "helper",
-        "name": "homegrowntag",
-        "link": "https://www.youtube.com/channel/UCtPsZ68MCked5rgimzzX7Hw"
-    },
-    {
-        "role": "trial",
-        "name": "ThinCrust",
-        "link": "https://www.youtube.com/channel/UCW0SgOGd9y6yHk5buJ81JfQ"
-    },
-    {
-        "role": "trial",
-        "name": "Prometheus",
-        "link": "https://www.youtube.com/c/PrometheusAlt"
-    },
-    {
-        "role": "dev",
-        "name": "Prometheus",
-        "link": "https://www.youtube.com/c/PrometheusAlt"
-    },
-    {
-        "role": "dev",
-        "name": "Emonadeo",
-        "link": "https://github.com/Emonadeo"
+        "name": "BlackMoonMaster",
+        "link": "https://www.youtube.com/channel/UC6TL5Z5lW6UaBqZqaw4RF9A"
     }
 ]

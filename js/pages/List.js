@@ -122,6 +122,9 @@ export default {
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
                     </p>
+                     <p>
+                       Thanks to Prometheus and TSL for letting us use the website :D
+                    </p>
                 </div>
             </div>
         </main>
