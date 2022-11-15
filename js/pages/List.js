@@ -88,7 +88,7 @@ export default {
                         <p class="type-label-md">Original List by <a href="https://me.redlimerl.com/" target="_blank">RedLime</a></p>
                     </div>
                     <template v-if="editors">
-                        <h3>CRGDPS Staff</h3>
+                        <h3>List Editors</h3>
                         <ol class="editors">
                             <li v-for="editor in editors">
                                 <img :src="\`/assets/\${roleIconMap[editor.role]}\${store.dark ? '-dark' : ''}.svg\`" :alt="editor.role">
@@ -123,7 +123,6 @@ export default {
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
                     </p>
                      <p>
-                       Thanks to Prometheus and TSL for letting us use the website :D
                     </p>
                 </div>
             </div>
