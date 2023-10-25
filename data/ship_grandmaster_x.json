@@ -1,0 +1,34 @@
+{
+    "id": 92860657,
+    "name": "Ship Grandmaster X",
+    "author": "Hyperbola",
+    "creators": ["Meatius",
+                 "& More"],
+    "verifier": "Hyperbola",
+    "verification": "https://www.youtube.com/watch?v=oLBorcF4gP0",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "hopopcop",
+            "link": "https://www.youtube.com/watch?v=YJsBnv011uw",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "LTerra",
+            "link": "https://www.youtube.com/watch?v=H35n16__m8s&t=3s",
+            "percent": 100,
+            "hz": "360"
+        }
+    
+
+
+
+
+
+
+
+
+        
+    ]
+}
