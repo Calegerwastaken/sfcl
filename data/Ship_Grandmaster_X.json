@@ -12,6 +12,12 @@
             "link": "https://www.youtube.com/watch?v=YJsBnv011uw"
             "percent": 100,
             "hz": "240"
+        },
+         {
+            "user": "LTerra",
+            "link": "https://www.youtube.com/watch?v=H35n16__m8s&t=3s",
+            "percent": 100,
+            "hz": "360"
         }
     ]
 }
