@@ -6,5 +6,18 @@
     "verifier": "Verifier",
     "verification": "Link",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+       {
+            "user": "IGN",
+            "link": "YTLink",
+            "percent": 100,
+            "hz": "FrameRate"
+        },
+
+
+
+
+
+        
+    ]
 }
