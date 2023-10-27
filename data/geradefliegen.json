@@ -6,5 +6,18 @@
     "verifier": "Xyhil",
     "verification": "https://youtu.be/_sSc0siSJq8?si=afaXYuPcL8VAUap6",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+       {
+            "user": "Hyperbola",
+            "link": "https://youtu.be/hNsgkDM1F6o?t=177",
+            "percent": 100,
+            "hz": "360"
+        },
+       {
+            "user": "hopopcop",
+            "link": "https://youtu.be/Xs62l_eWnyQ?t=135",
+            "percent": 100,
+            "hz": "360"
+        }        
+    ]
 }
