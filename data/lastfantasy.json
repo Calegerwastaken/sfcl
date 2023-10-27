@@ -8,10 +8,10 @@
     "percentToQualify": 100,
     "records": [
        {
-            "user": "IGN",
-            "link": "YTLink",
-            "percent": 100,
-            "hz": "FrameRate"
+            "user": "",
+            "link": "",
+            "percent": ,
+            "hz": ""
         }
 
 
