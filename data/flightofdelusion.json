@@ -6,5 +6,13 @@
     "verifier": "Ryujin7",
     "verification": "https://youtu.be/g4V3hfqguVI?t=2",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Caleger",
+            "link": "https://youtu.be/r50MWWaaIQY",
+            "percent": 100,
+            "hz": "321"
+        }
+
+    ]
 }
