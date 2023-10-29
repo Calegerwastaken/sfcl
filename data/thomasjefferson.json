@@ -6,6 +6,15 @@
     "verifier": "ballsgmd",
     "verification": "https://youtu.be/Za5FiriE_WA",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+            "user": "slemns",
+            "link": “https://www.youtube.com/watch?v=6qetfJG_maw",
+            "percent": 100,
+            "hz": "360"
+        }
+
+        
+    ]
 
 }
