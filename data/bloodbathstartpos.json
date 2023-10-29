@@ -6,6 +6,15 @@
     "verifier": "equinoxis",
     "verification": "https://youtu.be/gcxgkmnBBGE",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+            "user": "Caleger",
+            "link": “https://youtu.be/SN-e7-ehlsY",
+            "percent": 100,
+            "hz": "321"
+        }
+
+        
+    ]
 
 }
