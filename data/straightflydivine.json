@@ -6,6 +6,15 @@
     "verifier": "Splunchy",
     "verification": "https://youtu.be/mt92gWXVEh0",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "slemns",
+            "link": "https://www.youtube.com/watch?v=MqZhhEOGn0c",
+            "percent": 100
+            "hz": "360"
+        }
+
+        
+    ]
 
 }
