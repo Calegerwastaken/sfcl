@@ -6,6 +6,15 @@
     "verifier": "ThePastel",
     "verification": "https://www.youtube.com/watch?v=1_ROstKyol4",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+            "user": "slemns",
+            "link": “https://www.youtube.com/watch?v=BuDhKkb9zcY",
+            "percent": 100,
+            "hz": "360"
+        }
+
+        
+    ]
 
 }
