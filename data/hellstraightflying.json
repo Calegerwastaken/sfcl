@@ -24,6 +24,39 @@
             "link": "https://youtu.be/AXS4aJao3JU?t=20",
             "percent": 100,
             "hz": "321"
-        }    
+        },
+        {
+            "user": "Grilled",
+            "link": "https://clips.twitch.tv/BusyEnergeticSparrowKappaWealth-vfH-FfshiHOHtfal",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
+            "user": "slemns",
+            "link": "https://www.youtube.com/watch?v=TguFHg1W1VI",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
+            "user": "ZopeGG",
+            "link": "www.youtube.com/watch?v=dPploDh2kFM&t",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
+            "user": "freptical",
+            "link": "https://youtu.be/YKHn5zgFoBg",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
+            "user": "ballsgmd",
+            "link": "https://www.youtube.com/watch?v=TUky5VFIWi4",
+            "percent": 100,
+            "hz": "360"
+        }
+
+
+
     ]
 }
