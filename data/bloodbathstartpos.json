@@ -12,7 +12,21 @@
             "link": "https://youtu.be/SN-e7-ehlsY",
             "percent": 100,
             "hz": "321"
+        },
+        {
+            "user": "slemns",
+            "link": "https://www.youtube.com/watch?v=sSsDmqOEZio",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
+            "user": "KovokGMD",
+            "link": "https://www.youtube.com/watch?v=hdUMjBFU9w4",
+            "percent": 100,
+            "hz": "240"
         }
+
+
 
         
     ]
