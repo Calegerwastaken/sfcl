@@ -6,6 +6,15 @@
     "verifier": "Caleger",
     "verification": "https://youtu.be/hCOnTyreGl4",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+            "user": "ballsgmd",
+            "link": "https://youtu.be/IVevrpBNODw",
+            "percent": 100,
+            "hz": "360"
+        }
+
+        
+    ]
 
 }
