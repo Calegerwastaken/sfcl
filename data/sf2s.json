@@ -6,6 +6,22 @@
     "verifier": "Caleger",
     "verification": "Link",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+            "user": "slemns",
+            "link": “https://www.youtube.com/watch?v=XRlkY9QioM0",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
+            "user": "KovokGMD",
+            "link": "https://www.youtube.com/watch?v869AhJ2T6FA=",
+            "percent": 100,
+            "hz": "240"
+        }
+
+
+        
+    ]
 
 }
