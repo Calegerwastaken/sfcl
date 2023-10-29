@@ -6,7 +6,16 @@
     "verifier": "Caleger",
     "verification": "https://youtu.be/XW7X7EjTEKM",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "slemns",
+            "link": "https://www.youtube.com/watch?v=amWtMZZLAXk",
+            "percent": 100,
+            "hz": "360"
+        }
+
+        
+    ]
 
 }
   
