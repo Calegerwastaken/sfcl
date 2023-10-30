@@ -18,6 +18,18 @@
             "link": "https://www.youtube.com/watch?v=EJ8AG2q_Mmg",
             "percent": 100,
             "hz": "321"
-        }
+        },
+       {
+            "user": "Koozoo2000",
+            "link": "https://www.youtube.com/watch?v=K7CvNcHbfL8",
+            "percent": 100,
+            "hz": "360"
+        },
+         {
+            "user": "gado",
+            "link": "https://youtu.be/WHk1DiYOuZo?si=cf9YRyoFa0WADO5W",
+            "percent": 100,
+            "hz": "360"
+        }      
     ]
 }
