@@ -7,8 +7,8 @@
     "verification": "https://www.youtube.com/watch?v=8QiiGdcbhQ4",
     "percentToQualify": 100,
     "records": [
-        {
-            "user": "Kolzaru",
+    {
+           "user": "Kolzaru",
             "link": "https://youtu.be/O0abcDGzxQE",
             "percent": 100,
             "hz": "360"
@@ -19,6 +19,7 @@
             "percent": 100,
             "hz": "360"
         }
+
 
         
     ]
