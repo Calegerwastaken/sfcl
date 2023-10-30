@@ -7,7 +7,13 @@
     "verification": "https://youtu.be/RWZ-uFe4uT4",
     "percentToQualify": 100,
     "records": [
-  
+  {
+           "user": "slemns",
+            "link": "https://www.youtube.com/watch?v=Oq0a8xBgekE",
+            "percent": 100,
+            "hz": "360"
+        }
+
       
     ]
 }
