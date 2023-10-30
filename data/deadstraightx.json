@@ -6,6 +6,15 @@
     "verifier": "Caleger",
     "verification": "https://youtu.be/3oCP-LZG92I",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+     {
+            "user": "Oweenie",
+            "link": "https://www.youtube.com/watch?v=r-7LN0OMtd4",
+            "percent": 100,
+            "hz": "360"
+        }
+
+        
+    ]
 
 }
