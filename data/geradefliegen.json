@@ -18,7 +18,12 @@
             "link": "https://youtu.be/6TVAYpPOcCY",
             "percent": 100,
             "hz": "321"
+        },
+       {
+            "user": "gado",
+            "link": "https://www.youtube.com/watch?v=hfD8NP5QOvc",
+            "percent": 100,
+            "hz": "360"
         }
-
     ]
 }
