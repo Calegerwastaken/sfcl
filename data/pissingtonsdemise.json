@@ -7,7 +7,7 @@
     "verification": "https://youtu.be/XM1ZsOXdOwM",
     "percentToQualify": 100,
     "records": [
-    {
+        {
             "user": "slemns",
             "link": "https://www.youtube.com/watch?v=2FqloQ7yIP8",
             "percent": 100,
@@ -18,9 +18,12 @@
             "link": "https://www.youtube.com/watch?v=OPAQLS93vdo",
             "percent": 100,
             "hz": "240"
+        },
+        {
+            "user": "TheTravioli",
+            "link": "https://youtu.be/QUKbMJfmJok",
+            "percent": 100,
+            "hz": "360"
         }
-
-        
     ]
-
 }
