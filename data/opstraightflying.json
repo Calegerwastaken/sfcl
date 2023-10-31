@@ -7,7 +7,7 @@
     "verification": "https://www.youtube.com/watch?v=GMZdOBXxc2A",
     "percentToQualify": 100,
     "records": [
-              {
+        {
             "user": "Hyperbola",
             "link": "https://youtu.be/hNsgkDM1F6o?t=32",
             "percent": 100,
@@ -132,18 +132,12 @@
             "link": "https://www.youtube.com/watch?v=gDRNTC53A7g",
             "percent": 100,
             "hz": "360"
+        },
+        {
+            "user": "Raimby",
+            "link": "https://youtu.be/sghTmc4o-gc",
+            "percent": 100,
+            "hz": "240"
         }
-
-
-
-
-
-
-
-
-        
-
-
-        
     ]
 }
