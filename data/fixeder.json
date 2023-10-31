@@ -6,6 +6,14 @@
     "verifier": "Caleger",
     "verification": "https://youtu.be/OSOqrIZVg4w",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+            "user": "Slyent",
+            "link": "https://www.youtube.com/watch?v=gDRNTC53A7g",
+            "percent": 100,
+            "hz": "360"
+        }
+        
+    ]
 
 }
