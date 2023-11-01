@@ -18,7 +18,13 @@
             "link": "https://www.youtube.com/watch?v=8msCOip_n6o",
             "percent": 100,
             "hz": "321"
-        }
+        },
+        {
+            "user": "ClosetGMD",
+            "link": "https://www.youtube.com/watch?v=yXZ-D_a2KeE",
+            "percent": 100,
+            "hz": "360"
+        } 
       
     ]
 }
