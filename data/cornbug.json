@@ -6,5 +6,13 @@
     "verifier": "Skullziy",
     "verification": "https://youtu.be/gbqXx5Cc1Mw",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+            "user": "Caleger",
+            "link": "https://youtu.be/pgn0S5m2KIQ",
+            "percent": 100,
+            "hz": "321"
+        } 
+        
+    ]
 }
