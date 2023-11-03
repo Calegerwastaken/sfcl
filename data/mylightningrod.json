@@ -7,7 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=VN1jEwHRVB4",
     "percentToQualify": 100,
     "records": [
-  
-      
+    {
+            "user": "Koozoo2000",
+            "link": "https://youtu.be/XOIok-pdyjA",
+            "percent": 100,
+            "hz": "360"
+        } 
+        
     ]
 }
