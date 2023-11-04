@@ -60,7 +60,19 @@
             "link": "https://youtu.be/mWshS5Ym8M4?si=H55n8o5r55E8BcF9",
             "percent": 100,
             "hz": "360"
-        } 
+        },
+        {
+            "user": "Kolzaru",
+            "link": "https://youtu.be/2Q5fA-snbow",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
+            "user": "ThePastaNebula",
+            "link": "https://youtu.be/7lRVA-c6utY",
+            "percent": 100,
+            "hz": "360"
+        }
 
     ]
 }
