@@ -48,6 +48,12 @@
             "link": "https://www.youtube.com/watch?v=t3X06MSe6Sg&ab_channel=scarniq",
             "percent": 100,
             "hz": "360"
+        },
+        {
+            "user": "Tylor",
+            "link": "https://www.youtube.com/watch?v=QdQdcKL5Avs",
+            "percent": 100,
+            "hz": "360"
         }
     ]
 }
