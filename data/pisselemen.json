@@ -24,7 +24,13 @@
             "link": "https://www.youtube.com/watch?v=yXZ-D_a2KeE",
             "percent": 100,
             "hz": "360"
-        } 
+        },
+        {
+            "user": "Puzoni",
+            "link": "https://www.youtube.com/watch?v=oS35IzNbryU",
+            "percent": 100,
+            "hz": "360"
+        }
 
         
     ]
