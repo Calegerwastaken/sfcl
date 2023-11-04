@@ -6,5 +6,13 @@
     "verifier": "Caleger",
     "verification": "https://youtu.be/rt7rnMd75AE?t=14",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Kolzaru",
+            "link": "https://youtu.be/HrrC7mZJJg4",
+            "percent": 100,
+            "hz": "240"
+        }
+        
+    ]
 }
