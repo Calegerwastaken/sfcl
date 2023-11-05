@@ -42,10 +42,16 @@
             "link": "https://youtu.be/3LUHQUN2uyc",
             "percent": 100,
             "hz": "360"
-        } ,
+        },
         {
             "user": "gado",
             "link": "https://youtu.be/K-4VxzBfcuM",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
+            "user": "Rybertrion",
+            "link": "https://youtu.be/6_edw21w-r4?si=iult21_EfRn6Qm4x",
             "percent": 100,
             "hz": "360"
         } 
