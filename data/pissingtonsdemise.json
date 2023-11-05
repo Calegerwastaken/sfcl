@@ -84,8 +84,19 @@
             "link": "https://youtu.be/oD15m6c8F88?si=Rsc10qkzsK5ZsYgn",
             "percent": 100,
             "hz": "360"
+        },
+        {
+            "user": "neban5512",
+            "link": "https://youtu.be/MS3qOUi-75w",
+            "percent": 100,
+            "hz": "288"
+        },
+        {
+            "user": "waterwalk3r",
+            "link": "https://www.youtube.com/watch?v=hO4ePC3doBc",
+            "percent": 100,
+            "hz": "360"
         }
-        
         
     ]
 }
