@@ -54,8 +54,19 @@
             "link": "https://youtu.be/-J6f8TbYmQk",
             "percent": 100,
             "hz": "360"
+        },
+        {
+            "user": "ihyperkai",
+            "link": "https://www.youtube.com/watch?v=j6i7lbG4GMw",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
+            "user": "dryn",
+            "link": "https://www.youtube.com/watch?v=qcXo1NWyeEc",
+            "percent": 100,
+            "hz": "330"
         }
         
     ]
-
 }
