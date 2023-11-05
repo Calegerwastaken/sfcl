@@ -54,10 +54,26 @@
             "link": "https://youtu.be/6_edw21w-r4?si=PkD8Uzcs99lqsBQ1",
             "percent": 100,
             "hz": "360"
+        },
+        {
+            "user": "Komet01",
+            "link": "https://www.youtube.com/watch?v=0RkBogezaxY",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
+            "user": "dryn",
+            "link": "https://youtu.be/0CPrqN1KVGk",
+            "percent": 100,
+            "hz": "330"
+        },
+        {
+            "user": "DrakoFTW",
+            "link": "https://youtu.be/2w4VotdGaU4",
+            "percent": 100,
+            "hz": "360"
         }
-
         
     ]
-
 }
   
