@@ -6,5 +6,13 @@
     "verifier": "Puzoni",
     "verification": "https://youtu.be/etJC6a9_wTw",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {   
+            "user": "ThePastaNebula",
+            "link": "https://youtu.be/s5GCR_5pRU0",
+            "percent": 100,
+            "hz": "360"
+        }
+        
+    ]
 }
