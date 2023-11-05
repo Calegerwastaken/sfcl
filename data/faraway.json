@@ -7,4 +7,11 @@
     "verification": "https://www.youtube.com/watch?v=w8nkdtz85sU",
     "percentToQualify": 100,
     "records": []
+
+    {
+            "user": "gado",
+            "link": "https://youtu.be/BnOvylwmCUg",
+            "percent": 100,
+            "hz": "358"
+        },
 }
