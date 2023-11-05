@@ -42,8 +42,19 @@
             "link": "https://www.youtube.com/watch?v=WXqJ5PkEUSI&ab_channel=Drako",
             "percent": 100,
             "hz": "360"
+        },
+        {
+            "user": "spookin8r",
+            "link": "https://youtu.be/sqBWEXRvcl0",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
+            "user": "JohnPrevails",
+            "link": "https://youtu.be/sqBWEXRvcl0",
+            "percent": 100,
+            "hz": "360"
         }
-
-        
+  
     ]
 }
