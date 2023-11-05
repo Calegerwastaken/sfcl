@@ -48,9 +48,31 @@
             "link": "https://youtu.be/FC8-ACYAYnw?si=oVoHfccSA6rSrV6L",
             "percent": 100,
             "hz": "360"
-        }  
-
-
+        },
+        {
+            "user": "scarniq",
+            "link": "https://www.youtube.com/watch?v=CuR03v5CJok",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
+            "user": "DrakoFTW",
+            "link": "https://www.youtube.com/watch?v=DsU-AH_Qrrw",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
+            "user": "waterwalk3r",
+            "link": "https://www.youtube.com/watch?v=Ad8LgyVyM88",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
+            "user": "dryn",
+            "link": "https://www.youtube.com/watch?v=sFbiXYPn1XA",
+            "percent": 100,
+            "hz": "330"
+        }
 
     ]
 }
