@@ -6,6 +6,13 @@
     "verifier": "Caleger",
     "verification": "https://youtu.be/D5bYOktwGX4",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Rybertrion",
+            "link": "https://youtu.be/6_edw21w-r4?si=scHDBHtOoiPaMN4W",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
 
 }
