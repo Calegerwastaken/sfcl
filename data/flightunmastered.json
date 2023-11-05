@@ -8,6 +8,12 @@
     "percentToQualify": 100,
     "records": [
         {
+            "user": "tofflez",
+            "link": "https://youtu.be/vbYv9uO-pL0",
+            "percent": 100,
+            "hz": "165"
+        },
+        {
             "user": "X1rai",
             "link": "https://www.youtube.com/watch?v=wYjtYk76LwU",
             "percent": 100,
