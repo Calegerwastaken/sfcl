@@ -6,5 +6,12 @@
     "verifier": "Skyia321",
     "verification": "https://youtu.be/MLwW6XeHyeQ?si=J-Rw1MK4MUXH4JVV",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+    {
+            "user": "gado",
+            "link": "https://youtu.be/dyp_ChXKTMI?si=1RqCt3wsllJ4bYGI",
+            "percent": 100,
+            "hz": "358"
+        }
+    ]
 }
