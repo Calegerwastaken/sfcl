@@ -36,6 +36,13 @@
             "link": "https://www.youtube.com/watch?v=rhX9uI9IUHs&ab_channel=scarniq",
             "percent": 100,
             "hz": "360"
+        },
+        {
+            "user": "Kolzaru",
+            "link": "https://youtu.be/ceVgU_8JWbw",
+            "percent": 100,
+            "hz": "360"
         }
+        
     ]
 }
