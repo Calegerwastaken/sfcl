@@ -60,7 +60,13 @@
             "link": "https://youtu.be/UnmZ_mVTpPY?si=ggrSl4dKm5njFAH1",
             "percent": 100,
             "hz": "360"
-        }  
+        },
+        {
+            "user": "SalmonKR",
+            "link": "https://www.youtube.com/watch?v=XgOS57TR_EI",
+            "percent": 100,
+            "hz": "321"
+        }
         
     ]
 }
