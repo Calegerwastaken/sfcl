@@ -98,10 +98,28 @@
             "hz": "288"
         },
         {
-            "user": "Rybertrion",
-            "link": "https://youtu.be/VqvHE_-nnYs?si=9CU33GNRx8aFNDu7",
+            "user": "Kolzaru",
+            "link": "https://www.youtube.com/watch?v=OMWEkl8dvyE",
             "percent": 100,
             "hz": "360"
+        },
+        {
+            "user": "Komet01",
+            "link": "https://www.youtube.com/watch?v=ZBFqRJhvQ8Q",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
+            "user": "Shiba",
+            "link": "https://youtu.be/7DxXTGEqBUA",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
+            "user": "aguywhoisaguy",
+            "link": "https://youtu.be/OOmdO_EAx-I",
+            "percent": 100,
+            "hz": "240"
         }
         
     ]
