@@ -24,8 +24,12 @@
             "link": "https://youtu.be/6_edw21w-r4?si=KHOCBnTpCAgfsvRP",
             "percent": 100,
             "hz": "360"
-        }     
-        
+        },
+        {
+            "user": "dryn",
+            "link": "https://youtu.be/9HqvGxGJOGA",
+            "percent": 100,
+            "hz": "330"
+        }   
     ]
-
 }
