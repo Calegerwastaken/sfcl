@@ -7,25 +7,24 @@
     "verification": "https://www.youtube.com/watch?v=AJ3DS9gYPfo",
     "percentToQualify": 100,
     "records": [
-    {
+        {
             "user": "Xyhil",
             "link": "https://www.youtube.com/watch?v=jSaGO1lcoEY&list=PLuXLoaDggiIzts_ygFgwW2g5WJu-uU_1q&index=4",
             "percent": 100,
             "hz": "360"
-      },
-    {
+        },
+        {
             "user": "Hyperbola",
             "link": "https://www.youtube.com/watch?v=hNsgkDM1F6o",
             "percent": 100,
             "hz": "360"
+        },
+        {
+            "user": "sydno",
+            "link": "https://www.youtube.com/watch?v=auyo6mZtQD4",
+            "percent": 100,
+            "hz": "360"
         }
 
-
-
-
-
-
-
-      
     ]
 }
