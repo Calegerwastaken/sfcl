@@ -24,8 +24,13 @@
             "link": "https://youtu.be/UA8CEp2WfMs",
             "percent": 100,
             "hz": "360"
-        } 
+        },
+        {
+            "user": "notmrsooty",
+            "link": "https://www.youtube.com/watch?v=7f216bOmTBA",
+            "percent": 100,
+            "hz": "280"
+        }
 
-        
     ]
 }
