@@ -36,6 +36,13 @@
             "link": "https://www.youtube.com/watch?v=J-wMzeC3Ru4&feature=youtu.be",
             "percent": 100,
             "hz": "360"
-        }   
+        },
+        {
+            "user": "Kolzaru",
+            "link": "https://youtu.be/VKcOpFfinww",
+            "percent": 100,
+            "hz": "360"
+        }
+        
     ]
 }
