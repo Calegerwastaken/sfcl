@@ -12,6 +12,12 @@
             "link": "https://www.youtube.com/watch?v=5T40MpZSIwE&ab_channel=Kolzaru",
             "percent": 100,
             "hz": "360"
+        },
+       {
+            "user": "zenmode",
+            "link": "https://www.youtube.com/watch?v=2yAMy08kJkg",
+            "percent": 100,
+            "hz": "200"
         }
     ]
 }
