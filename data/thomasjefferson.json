@@ -66,8 +66,13 @@
             "link": "https://www.youtube.com/watch?v=adnCCFnRvho",
             "percent": 100,
             "hz": "360"
+        },
+        {
+            "user": "zfiery",
+            "link": "https://www.youtube.com/watch?v=-hJerJvKsRY",
+            "percent": 100,
+            "hz": "240"
         }
         
     ]
-
 }
