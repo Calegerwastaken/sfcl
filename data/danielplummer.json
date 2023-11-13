@@ -1,9 +1,9 @@
 {
     "id": 96130851,
     "name": "Daniel Plummer",
-    "author": "thepastanebula",
-    "creators": [],
-    "verifier": "thepastanebula",
+    "author": "ThePastaNebula",
+    "creators": ["ThePastaNebula, enoko"],
+    "verifier": "ThePastaNebula",
     "verification": "https://youtu.be/r_fHJhARsUY",
     "percentToQualify": 100,
     "records": [
