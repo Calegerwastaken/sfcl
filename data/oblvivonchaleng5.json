@@ -7,7 +7,12 @@
     "verification": "https://www.youtube.com/watch?v=rgy1Exvt5qc",
     "percentToQualify": 100,
     "records": [
-       {
+        {
+            "user": "gado",
+            "link": "https://youtu.be/Is-7b9kCtMs",
+            "percent": 100,
+            "hz": "358"
+        }{
             "user": "ThePastaNebula",
             "link": "https://www.youtube.com/watch?v=DL5Dk6xfhZY",
             "percent": 100,
