@@ -66,9 +66,13 @@
             "link": "https://youtu.be/Is-7b9kCtMs",
             "percent": 100,
             "hz": "358"
+        },
+        {
+            "user": "AzureFur",
+            "link": "https://www.youtube.com/watch?v=94xDeevmzSY",
+            "percent": 100,
+            "hz": "360"
         }
         
     ]
-
-
 }
