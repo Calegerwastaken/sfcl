@@ -13,7 +13,6 @@
             "percent": 100,
             "hz": "360"
         },
-
         {
             "user": "Caleger",
             "link": "https://youtu.be/bR5a_m6pRt0",
@@ -43,6 +42,12 @@
             "link": "https://youtu.be/2yLavf2FJGU",
             "percent": 100,
             "hz": "360"
+        },
+        {
+            "user": "Astr2l",
+            "link": "https://youtu.be/9jvyIwr6Ou0",
+            "percent": 100,
+            "hz": "260"
         }
 
     ]
