@@ -6,5 +6,13 @@
     "verifier": "gado",
     "verification": "https://youtu.be/EFRD8Xv6LTw?si=7jrQ4mUaKHnnukTH",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "ThePastaNebula",
+            "link": "https://youtu.be/d9mromAGDs8",
+            "percent": 100,
+            "hz": "360"
+        }
+        
+    ]
 }
