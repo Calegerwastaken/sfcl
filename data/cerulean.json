@@ -7,11 +7,23 @@
     "verification": "https://www.youtube.com/watch?v=QSB9LXkxa-c",
     "percentToQualify": 100,
     "records": [
-    {
+        {
             "user": "Caleger",
             "link": "https://youtu.be/epOlVFaW-QI",
             "percent": 100,
             "hz": "321"
+        },
+        {
+            "user": "Skyia321",
+            "link": "https://www.youtube.com/watch?v=V0eWo_Owc5g",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
+            "user": "Kolzaru",
+            "link": "https://youtu.be/w6Q7WjTkQxE",
+            "percent": 100,
+            "hz": "360"
         }
         
     ]
