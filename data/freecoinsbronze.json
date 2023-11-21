@@ -7,11 +7,29 @@
     "verification": "https://youtu.be/FDkP9EglX3g",
     "percentToQualify": 100,
     "records": [
-    {
+        {
             "user": "Caleger",
             "link": "https://youtu.be/DSC0_0lQTLM",
             "percent": 100,
             "hz": "321"
+        },
+        {
+            "user": "AzureFur",
+            "link": "https://www.youtube.com/watch?v=Flt6xCfzCoQ",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
+            "user": "Kolzaru",
+            "link": "https://youtu.be/2L145ckkRds",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
+            "user": "kiefer",
+            "link": "https://youtu.be/ZZ6hfd08PLY",
+            "percent": 100,
+            "hz": "360"
         }
         
     ]
