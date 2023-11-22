@@ -7,17 +7,12 @@
     "verification": "https://youtu.be/5CPmRHcqfXw",
     "percentToQualify": 100,
     "records": [
-       {
+        {
             "user": "ThePastaNebula",
             "link": "https://youtu.be/RPMPqoggXuY",
             "percent": 100,
             "hz": "360"
-        },
-
-
-
-
-
+        }
         
     ]
 }
