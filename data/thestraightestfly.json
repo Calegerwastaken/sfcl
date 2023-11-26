@@ -66,10 +66,16 @@
             "link": "https://youtu.be/_wqU81fU1Zw",
             "percent": 100,
             "hz": "360"
-        }.
+        },
         {
             "user": "JohnPrevails",
             "link": "https://youtu.be/pUayQ4s1K7M?si=u83dyim9BQrjtH8V&t=309",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
+            "user": "teefee",
+            "link": "https://www.youtube.com/watch?v=B2IBvI9AcEw",
             "percent": 100,
             "hz": "360"
         }
