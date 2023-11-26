@@ -7,9 +7,15 @@
     "verification": "https://youtu.be/3oJmiRPnvxs",
     "percentToQualify": 100,
     "records": [
-    {
+        {
             "user": "Kolzaru",
             "link": "https://youtu.be/YETS50PZ4NY",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
+            "user": "limitationn",
+            "link": "https://youtu.be/VeE5WNvvOMw",
             "percent": 100,
             "hz": "360"
         }
