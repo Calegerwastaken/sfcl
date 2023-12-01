@@ -6,31 +6,5 @@
     "verifier": "Caleger",
     "verification": "https://www.youtube.com/watch?v=qBCgO5wWRdk",
     "percentToQualify": 100,
-    "records": [
-        {
-            "user": "Xebs",
-            "link": "https://youtu.be/I_jFMVmEdBA",
-            "percent": 100,
-            "hz": "360"
-        },
-        {
-            "user": "BenjiTT",
-            "link": "https://www.youtube.com/watch?v=ojLZd6gz7g8",
-            "percent": 100,
-            "hz": "240"
-        },
-        {
-            "user": "Kolzaru",
-            "link": "https://youtu.be/KtX_15sn8rk",
-            "percent": 100,
-            "hz": "360"
-        },
-        {
-            "user": "taidhgind",
-            "link": "https://www.youtube.com/watch?v=3eWediiEvUM",
-            "percent": 100,
-            "hz": "360"
-        }
-        
-    ]
+    "records": []
 }
