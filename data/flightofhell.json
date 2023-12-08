@@ -102,6 +102,12 @@
             "link": "https://www.youtube.com/watch?v=_Z8lmevIK30",
             "percent": 100,
             "hz": "360"
+        },
+        {
+            "user": "mattimakkara",
+            "link": "https://youtu.be/7z5oGBHPysw",
+            "percent": 100,
+            "hz": "360"
         }
     ]
 }
