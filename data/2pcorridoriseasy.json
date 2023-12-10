@@ -6,5 +6,12 @@
     "verifier": "gizmo150",
     "verification": "https://www.youtube.com/watch?v=fcwUh811fQs",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Xebs",
+            "link": "https://www.youtube.com/watch?v=1elfDMbbtyw",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
 }
