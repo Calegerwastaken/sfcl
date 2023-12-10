@@ -6,5 +6,12 @@
     "verifier": "Xebs",
     "verification": "https://youtu.be/ZSxQ8FAH6UA",
     "percentToQualify": 100,
-    "records": []
+    "records": [ 
+        {
+            "user": "SkullOnFire",
+            "link": "https://youtu.be/evDrfDZb8nk,
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
 }
