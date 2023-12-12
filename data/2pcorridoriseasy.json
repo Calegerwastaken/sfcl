@@ -3,15 +3,8 @@
     "name": "2p corridor is easy",
     "author": "gizmo150",
     "creators": [],
-    "verifier": "gizmo150",
-    "verification": "https://www.youtube.com/watch?v=fcwUh811fQs",
+    "verifier": "Xebs",
+    "verification": "https://www.youtube.com/watch?v=1elfDMbbtyw",
     "percentToQualify": 100,
-    "records": [
-        {
-            "user": "Xebs",
-            "link": "https://www.youtube.com/watch?v=1elfDMbbtyw",
-            "percent": 100,
-            "hz": "360"
-        }
-    ]
+    "records": []
 }
