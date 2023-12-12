@@ -122,6 +122,9 @@ export default {
                     <p>
                         Once a level falls into Pinewood, we no longer accept records
                     </p>
+                    <p>
+                        2 player challenges cannot be completed with one hand, so no rebinding to adjacent keys
+                    </p>
                      <p>
                     </p>
                 </div>
