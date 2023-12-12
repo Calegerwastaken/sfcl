@@ -3,15 +3,8 @@
     "name": "Dos Jugadoras",
     "author": "gizmo150",
     "creators": [],
-    "verifier": "gizmo150",
-    "verification": "https://www.youtube.com/watch?v=AR0Yzbs-l3Q",
+    "verifier": "Xebs",
+    "verification": "https://www.youtube.com/watch?v=H3L5omdI0nQ",
     "percentToQualify": 100,
-    "records": [
-         {
-            "user": "Xebs",
-            "link": "https://www.youtube.com/watch?v=H3L5omdI0nQ",
-            "percent": 100,
-            "hz": "360"
-        }
-    ]
+    "records": []
 }
