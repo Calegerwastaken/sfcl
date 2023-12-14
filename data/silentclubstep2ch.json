@@ -26,7 +26,7 @@
             "hz": "360"
         },
         {
-            "user": "Limitationn",
+            "user": "limitationn",
             "link": "https://youtu.be/bBuWefFE27w",
             "percent": 100,
             "hz": "360"
@@ -40,6 +40,12 @@
         {
             "user": "scarniq",
             "link": "https://www.youtube.com/watch?v=YUiaV7myH88",
+            "percent": 100,
+            "hz": "360"
+        },
+        {
+            "user": "Talismite",
+            "link": "https://www.youtube.com/watch?v=hJQR_nEcbhI",
             "percent": 100,
             "hz": "360"
         }
