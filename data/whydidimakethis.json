@@ -6,5 +6,12 @@
     "verifier": "Caleger",
     "verification": "https://youtu.be/ai5zWclAjkM",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "limitationn",
+            "link": "https://www.youtube.com/watch?v=-oXUKszynjk",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
 }
