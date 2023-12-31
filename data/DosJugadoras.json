@@ -6,5 +6,12 @@
     "verifier": "Xebs",
     "verification": "https://www.youtube.com/watch?v=H3L5omdI0nQ",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "therealbenc16",
+            "link": "https://www.youtube.com/watch?v=TJwkbGDozVw",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
 }
