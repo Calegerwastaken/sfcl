@@ -24,6 +24,12 @@
             "link": "https://www.youtube.com/watch?v=hJQR_nEcbhI",
             "percent": 100,
             "hz": "360"
+        },
+        {
+            "user": "Caleger",
+            "link": "https://youtu.be/GQ4ZDebaL7U",
+            "percent": 100,
+            "hz": "1000"
         }
     ]
 }
