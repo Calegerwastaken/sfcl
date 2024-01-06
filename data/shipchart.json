@@ -6,5 +6,24 @@
     "verifier": "Caleger",
     "verification": "https://youtu.be/R-ClV0MJ3ck",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "limitationn",
+            "link": "https://youtu.be/ei90kM3cjzw?si=nf2uN396GLdQFclo",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "spookkd",
+            "link": "https://www.youtube.com/watch?v=z_r2n8GRRas",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "Xebs",
+            "link": "https://youtu.be/cFvSvFD1TMY",
+            "percent": 100,
+            "hz": "240"
+        }
+    ]
 }
