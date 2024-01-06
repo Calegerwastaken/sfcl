@@ -41,13 +41,19 @@
             "user": "limitationn",
             "link": "https://youtu.be/1gFic3a_QR0?si=utnnis4QF0TU954k",
             "percent": 100,
-            "hz": 240
+            "hz": "240"
         },
         {
             "user": "Xebs",
             "link": "https://www.youtube.com/watch?v=03EwgInOeRI&list=PL8B98L3FeKXkmX4wlPRQVbLlkTWdOL25m&index=20",
             "percent": 100,
-            "hz": 240
+            "hz": "240"
+        },
+        {
+            "user": "Doggo136",
+            "link": "https://youtu.be/jfIN3cjc6wk",
+            "percent": 100,
+            "hz": "240"
         }
     ]
 }
