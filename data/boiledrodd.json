@@ -1,24 +1,13 @@
 {
     "id": 96729398,
-    "name": "Boiled Rodd",
+    "name": "Chat",
     "author": "OgadO",
     "creators": ["Caleger", "gado"],
     "verifier": "gado",
     "verification": "https://youtu.be/5CPmRHcqfXw",
     "percentToQualify": 100,
     "records": [
-        {
-            "user": "ThePastaNebula",
-            "link": "https://youtu.be/RPMPqoggXuY",
-            "percent": 100,
-            "hz": "360"
-        },
-        {
-            "user": "Kolzaru",
-            "link": "https://youtu.be/VJIx7n6AjGY",
-            "percent": 100,
-            "hz": "360"
-        }
+       
         
     ]
 }
