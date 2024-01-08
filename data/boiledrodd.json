@@ -7,7 +7,36 @@
     "verification": "https://www.youtube.com/watch?v=rS7-E0fNQwk",
     "percentToQualify": 100,
     "records": [
-       
+       {
+           "user": "limitationn",
+           "link": "https://www.youtube.com/watch?v=rS7-E0fNQwk ",
+           "percent": 100,
+           "hz": "240"
+       },
+        {
+           "user": "spookkd",
+           "link": "https://www.youtube.com/watch?v=rS7-E0fNQwk ",
+           "percent": 100,
+           "hz": "240"
+       },
+        {
+           "user": "Xebs",
+           "link": "https://www.youtube.com/watch?v=rS7-E0fNQwk ",
+           "percent": 100,
+           "hz": "240"
+       },
+        {
+           "user": "Caleger",
+           "link": "https://www.youtube.com/watch?v=rS7-E0fNQwk ",
+           "percent": 100,
+           "hz": "240"
+       },
+        {
+           "user": "BootifulBlaze",
+           "link": "https://www.youtube.com/watch?v=rS7-E0fNQwk ",
+           "percent": 100,
+           "hz": "240"
+       },
         
     ]
 }
