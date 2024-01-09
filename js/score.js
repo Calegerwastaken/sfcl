@@ -10,19 +10,14 @@ const scale = 3;
  * @param {Number} minPercent Minimum percentage required
  * @returns {Number}
  */
-export function score(rank, percent, minPercent) {
+export function score(rank) {
     if (rank > 75) {
         return 0;
     }
 
-    let score = (100 / Math.sqrt((rank - 1) / 50 + 0.444444) - 50) *
-        ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
+    let score = (100 / Math.sqrt((rank - 1) / 50 + 0.444444) - 50);
 
     score = Math.max(0, score);
-
-    if (percent != 100) {
-        return round(score - score / 3);
-    }
 
     return round(score);
 }
