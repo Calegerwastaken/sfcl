@@ -114,7 +114,7 @@ export async function fetchLeaderboard() {
 
         return {
             user,
-            total: round(total),
+            total: Math.trunc(round(total)),
             ...scores,
         };
     });
