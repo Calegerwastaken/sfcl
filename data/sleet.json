@@ -6,5 +6,12 @@
     "verifier": "BriteShadow",
     "verification": "https://youtu.be/2gGVDRl9CUM",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+                {
+            "user": "limitationn",
+            "link": "https://www.youtube.com/watch?v=zSwcpNhEaHg",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
 }
