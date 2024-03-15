@@ -85,6 +85,12 @@
             "link": "https://www.youtube.com/watch?v=bQAkfboYlDI",
             "percent": 100,
             "hz": "240"
+        },
+        {
+            "user": "EpixGMD",
+            "link": "https://www.youtube.com/watch?v=_HzzPIj9lbY",
+            "percent": 1000000,
+            "hz": "240"
         }
     ]
 }
