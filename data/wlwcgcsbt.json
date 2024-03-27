@@ -48,6 +48,11 @@
             "link": "https://www.youtube.com/watch?v=bQAkfboYlDI",
             "percent": 100,
             "hz": "1000"
+        },
+        {
+            "user": "amicaw",
+            "link": "https://youtu.be/FxTIp6eMZo4",
+            "percent": 100,
+            "hz": "360"
         }
-    ]
 }
