@@ -7,7 +7,7 @@
     "verification": "https://youtu.be/9R_Px6nQlCw",
     "percentToQualify": 100,
     "records": [
-{
+        {
             "user": "Caleger",
             "link": "https://youtu.be/fuOyq79Jkp4",
             "percent": 100,
@@ -90,7 +90,6 @@
             "link": "https://youtu.be/H8_n43r7Fqo?si=s6R-RJcIrf3-Oj5k",
             "percent": 100,
             "hz": "360"
-        }
         
     ]
 }
