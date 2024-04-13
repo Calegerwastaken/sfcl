@@ -52,7 +52,8 @@ export default {
                         </li>
                         <li>
                             <div class="type-title-sm">Version</div>
-                            <p>{{ level.version }}</p>
+                            <p v-if="level.id > 97000000">#{{ 2.2 }}</p>
+                            <p v-else>{{ level.version }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
