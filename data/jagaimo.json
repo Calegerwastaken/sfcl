@@ -84,8 +84,12 @@
             "link": "https://www.youtube.com/watch?v=FPlLDHMdAJU",
             "percent": 100,
             "hz": "240"
-        }
-
-        
+        },
+        {
+            "user": "qvicksy",
+            "link": "https://www.youtube.com/watch?v=Z7rRO_oLuTM",
+            "percent": 100,
+            "hz": "240"
+        }    
     ]
 }
