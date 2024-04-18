@@ -6,5 +6,12 @@
     "verifier": "Caleger",
     "verification": "https://www.youtube.com/watch?v=1No_UG3vdbY",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+          {
+            "user": "spookkd",
+            "link": "https://www.youtube.com/watch?v=Lc8nIgxebsg",
+            "percent": 100,
+            "hz": "360"
+          }
+    ]
 }
