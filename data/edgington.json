@@ -6,5 +6,12 @@
     "verifier": "Caleger",
     "verification": "https://youtu.be/F3hGTpnywQQ",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "FogMello"",
+            "link": "https://www.youtube.com/watch?v=yyrfRrvkoEs&ab_channel=Saulgoodmello",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
 }
