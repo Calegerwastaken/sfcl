@@ -30,6 +30,18 @@
             "link": "https://www.youtube.com/watch?v=bQAkfboYlDI",
             "percent": 100,
             "hz": "240"
+        },
+        {
+            "user": "Xebs",
+            "link": "https://youtu.be/lkUV0iFtFhU",
+            "percent": 100,
+            "hz": "240"
+        },
+        {
+            "user": "FogMello",
+            "link": "https://www.youtube.com/watch?v=-Zwvg80lTzE&ab_channel=Saulgoodmello",
+            "percent": 100,
+            "hz": "360"
         }
     ]
 }
