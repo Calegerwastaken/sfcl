@@ -6,5 +6,12 @@
     "verifier": "thepastel",
     "verification": "https://youtu.be/WB7MT_xm9ws",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+            "user": "Xebs",
+            "link": "https://www.youtube.com/watch?v=a7JACYti6Wo",
+            "percent": 100,
+            "hz": "360"
+        }
+    ]
 }
